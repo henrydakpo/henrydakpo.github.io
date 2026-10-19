@@ -39,6 +39,20 @@ Overall, these findings highlight the potential of conversational interfaces to 
   title="Same Facts, Different Interfaces Full Project Write-Up">
 </iframe>
 
+
 ## Demo
 
-*Coming Soon!*
+Watch a demonstration of the FAQ webpage, retrieval-based chatbot, and AI-powered chatbot developed for this project.
+
+<video controls preload="metadata"
+       style="width: 100%; height: auto;"
+       aria-label="Demonstration of the three student-service interfaces">
+  <source src="/files/combined_movie.mp4" type="video/mp4">
+  Your browser does not support embedded video.
+</video>
+
+<p>
+  <a href="/files/combined_movie.mp4" target="_blank" rel="noopener">
+    Open the demo in a new tab
+  </a>
+</p>
