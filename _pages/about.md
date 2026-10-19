@@ -21,4 +21,4 @@ Cognition · Human-Computer Interaction · Information Behavior · Information R
 
 ## Current Work
 
-I just started serving my nation through my university, **University of Ghana - Legon**, and expect to complete my service at the **end of July 2027**.
+I just started serving my nation through my university, the **University of Ghana - Legon**, and expect to complete my service at the **end of July 2027**.
