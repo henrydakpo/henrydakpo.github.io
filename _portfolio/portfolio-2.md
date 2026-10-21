@@ -24,4 +24,10 @@ Overall, the project demonstrated the feasibility of adapting a multilingual spe
 
 ## Demo
 
-*Coming Soon!*
+Watch a demonstration of the Ga speech recognition system transcribing spoken Ga into text.
+
+<video controls playsinline preload="metadata"
+       style="width: 100%; height: auto;">
+  <source src="/files/Ga-ASR%20demo.mp4" type="video/mp4">
+  Your browser does not support embedded video.
+</video>
